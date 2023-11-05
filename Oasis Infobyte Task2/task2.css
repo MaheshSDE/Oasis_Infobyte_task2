@@ -1,0 +1,481 @@
+.bg-container {
+    height: 100vh;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.nav-photo {
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+    background-color: #ffffff;
+}
+
+.img-photo {
+    height: 60px;
+    width: 80px;
+    border-radius: 30px;
+}
+
+.img-cont {
+    text-align: right;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.IMAGE {
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #53c6cf;
+    height: 120vh;
+    background-size: cover;
+    padding: 30px;
+    margin-top: 40px;
+    width: 100%;
+    flex-grow: 1;
+}
+
+.clarity-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-style: oblique;
+    color: #000000;
+}
+
+.descrition {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #000000;
+    align-self: right;
+}
+
+.intro-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #000000;
+    font-weight: bold;
+}
+
+.intro-desc {
+    font-family: "Roboto";
+    color: #57544e;
+}
+
+.style {
+    font-weight: bold;
+    color: #000000;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    color: #00000;
+    font-size: 35px;
+}
+
+.icon {
+    color: #252c4d;
+    font-size: 60px;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.tech-card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    padding: 20px;
+}
+
+.image {
+    font-size: 150px;
+}
+
+.tech-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    margin: 10px;
+    background-color: #ffffff;
+}
+
+.tech-card-container {
+    padding: 20px;
+}
+
+.tech-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tech-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #7b8794;
+}
+
+.tech {
+    background-color: #3c5e78;
+}
+
+.technology-container {
+    background-size: cover;
+    padding: 20px;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #457885;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.tech-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.technology-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 550;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.technology-description {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.pro {
+    background-color: #6178ad;
+}
+
+.projects-container {
+    padding: 10px;
+    background-size: cover;
+    background-color: ;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: ;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: ;
+    border-width: px;
+    border-style: ;
+    border-color: #ffffff;
+}
+
+.project-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.project-heading {
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 550;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.project-description {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.project-main-heading {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 550;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.follow-us-section {
+    background-color: #b2bed1;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color: #faf7e8;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin: 15px;
+    padding-top: 18px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 20px;
+}
+
+.icons {
+    color: #d0b200;
+    font-size: 25px;
+    padding-right: 10px;
+
+}
+
+.image-logo {
+    height: 100px;
+    width: 110px;
+    border-radius: 90px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+@media (min-width:768px) {
+    .header-container {
+        height: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #53c6cf;
+        padding: 20px;
+        margin-top: 40px;
+        width: 100%;
+    }
+
+    .heading {
+        font-family: "Bree Serif";
+        font-size: 45px;
+        font-style: oblique;
+        color: #000000;
+    }
+
+    .descrition {
+        font-family: "Roboto";
+        font-size: 35px;
+        color: #000000;
+    }
+
+    .technology-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        background-color: #067c99;
+        background-size: cover;
+        padding: 20px;
+    }
+
+    .card-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 30px;
+        *
+        /*background-color: #457885;*/
+        border-radius: 20px;
+        padding: 10px;
+        width: 400px;
+    }
+
+    .tech-image {
+        width: 300px;
+        height: 300px;
+        border-radius: 20px;
+    }
+
+    .projects-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        background-size: cover;
+        background-color: #6178ad;
+    }
+
+    .container {
+        width: 300px;
+    }
+
+    .project-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 20px;
+        border-radius: 20px;
+        padding: 20px;
+        border-color: #ffffff;
+        width: 300px;
+        background-color: #bba9cc;
+    }
+
+    .project-image {
+        height: 300px;
+        width: 300px;
+        border-radius: 20px;
+    }
+
+    .project-heading {
+        font-family: "Roboto";
+        text-align: center;
+        font-weight: 550;
+        font-size: 30px;
+        color: #ffffff;
+    }
+
+    .project-description {
+        font-family: "Roboto";
+        text-align: center;
+        font-size: 15px;
+        color: #ffffff;
+    }
+
+    .follow-us-section {
+        background-color: #b2bed1;
+    }
+
+    .follow-us-section-heading {
+        text-align: center;
+        color: #183b56;
+        font-family: "Roboto";
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    .follow-us-icon-container {
+        background-color: #faf7e8;
+        width: 90px;
+        height: 90px;
+        border-radius: 40px;
+        margin: 15px;
+        padding-top: 22px;
+        padding-bottom: 14px;
+        padding-right: 16px;
+        padding-left: 22px;
+    }
+
+    .icons {
+        color: #d0b200;
+        font-size: 45px;
+    }
+
+    .footer-section {
+        background-color: #0d2436;
+    }
+
+    .footer-section-mail-id {
+        color: #959ead;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .footer-section-address {
+        color: #959ead;
+        font-family: "Roboto";
+        font-size: 20px;
+    }
+
+}
